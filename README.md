@@ -1,5 +1,17 @@
-### Hi there 👋
+### Hey there! 👋 I'm Verona, and I recently completed the full-stack code labs bootcamp through <a href="https://www.codefiworks.com/codelabs/">Codefi</a> in Cape Girardeau, Missouri. I'm excited to continue this journey into the world of programming and software development. This README serves as a brief introduction of who I am, what I've learned, and what I'm currently working on...
 
+
+
+<div id=”header” align=”center”>
+ <img src=https://media.giphy.com/media/QX7nMrAHVN0FFD7EtK/giphy.gif width=”100”/>
+</div>
+
+## Current Focus
+Currently, I'm focused on:
+<ul>
+  <li>Building my portfolio website to showcase my projects and skills</li>
+  <li>Continuing a deeper dive into concepts and technology languages I've learned while working with other programmers to build my skillset.</li>
+</ul>
 <!--
 **gitmissv/gitmissv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
