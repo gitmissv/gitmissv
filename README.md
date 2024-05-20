@@ -1,4 +1,5 @@
-### Hey there! 👋 I'm Verona, and I recently completed the full-stack code labs bootcamp through <a href="https://www.codefiworks.com/codelabs/">Codefi</a> in Cape Girardeau, Missouri. I'm excited to continue this journey into the world of programming and software development. This README serves as a brief introduction of who I am, what I've learned, and what I'm currently working on...
+### Hey there! 👋 
+I'm Verona, and I recently completed the full-stack code labs bootcamp through <a href="https://www.codefiworks.com/codelabs/">Codefi</a> in Cape Girardeau, Missouri. I'm excited to continue this journey into the world of programming and software development. This README serves as a brief introduction of who I am, what I've learned, and what I'm currently working on...
 
 
 
