@@ -15,6 +15,7 @@ I recently completed the full-stack code labs bootcamp through <i><a href="https
 ### Class Group Projects I've worked on:
 <ul>
   <li><a href="https://local-lancer-frontend.vercel.app/">Local Lancer</a></li>
+  <li><a href="https://www.momentumthirty.com/">Momentum30</a></li>
   <li><a href="https://www.ezpropmanager.com/">EZ Property Manager</a></li>
 </ul>
 
