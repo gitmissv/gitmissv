@@ -14,9 +14,9 @@ I recently completed the full-stack code labs bootcamp through <i><a href="https
 
 ### Class Group Projects I've worked on:
 <ul>
-  <li><a href="https://local-lancer-frontend.vercel.app/">Local Lancer</a></li>
-  <li><a href="https://www.momentumthirty.com/">Momentum30</a></li>
-  <li><a href="https://www.ezpropmanager.com/">EZ Property Manager</a></li>
+  <li><a href="https://local-lancer-frontend.vercel.app/">Local Lancer</a>: Contractors | Freelancers (find who you're looking for)</li>
+  <li><a href="https://www.momentumthirty.com/">Momentum30</a>: Exercise program for beginners (anyone can do at home)</li>
+  <li><a href="https://www.ezpropmanager.com/">EZ Property Manager</a>: Program for landlords, tenants, and maintenance staff</li>
 </ul>
 
 <!-- <h3 align="left">Connect with me:</h3>
